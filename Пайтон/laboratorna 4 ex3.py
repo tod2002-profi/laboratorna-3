@@ -8,7 +8,7 @@ y3 = int(input('Введіть значення y для точки C: '))
 AB = math.sqrt((x2-x1)*(x2-x1)+(y2-y1)*(y2-y1))
 BC = math.sqrt((x3-x2)*(x3-x2)+(y3-y2)*(y3-y2))
 AC = math.sqrt((x3-x1)*(x3-x1)+(y3-y1)*(y3-y1))
-if AB == BC or AB == AC:
+if AB == BC and AB == AC:
     print ( " Трикутник ABC рівностороній " )
 else:
     print ( " Трикутник ABC НЕ рівностороній " )
