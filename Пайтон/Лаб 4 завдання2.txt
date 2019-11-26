@@ -1,7 +1,0 @@
-a = int(input('¬вед≥ть a: '))
-b = int(input('¬вед≥ть b: '))
-c = int(input('¬вед≥ть c: '))
-m = max(a,b)
-n = min(b,c)
-q = m+n*n
-print('q = ',q)
