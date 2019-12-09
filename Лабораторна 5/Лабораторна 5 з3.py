@@ -1,3 +1,6 @@
+# Lab 5
+# Variant 6
+# Перевіритти справедливіст рівності при заданій точності ЕПСІЛОН
 import math
 
 epsilon = float(input("epsilon = "))
