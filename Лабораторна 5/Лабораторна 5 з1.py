@@ -1,5 +1,5 @@
 # Lab 5
-
+# variant 6
 # Output (2^2+4^2+...+(2n)^2)+(3^3+5^3+...(2n+1)^3
 
 import math
